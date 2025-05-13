@@ -1,0 +1,15 @@
+{
+  "user_id": "audit1",
+  "name": "Audit Company 1",
+  "role": "audit_company",
+  "email": null,
+  "organization": "Audit Co.",
+  "permissions": [
+    "view_all_audit",
+    "query_all_audit",
+    "verify_blockchain"
+  ],
+  "public_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuJmfUKo5WZPe5Cn7gJlX\nGtVBXqmJYJ6Ih5uUh+B22U+WLmex2DRE14tTle97JcogIkIbBjXIGf+Mts7jsOAv\nUG/3ntCiVyr+E5z8RiFr7aZJr9lcAUVUq4QA3SdXDHELkOS5SvDAJd0edb+hHg7y\nKajDZ3gtOVq29MVfn5MHDxgSx+8sLs0gc8JzUpISHH2IP8Pp3N7wHwdlmv9gjDPC\nIfSQTVV19KXOZ658/2hwQ9J51DiSVEVa55Eakw3tSFPoDz/OITjeh82mJnGjxAfw\nLQFXNgi4DdMtldeTo4/3tMW+mHDQW0WTgsLY1GUw08ZHSrAi52Bmux44SPbCTPj5\nMQIDAQAB\n-----END PUBLIC KEY-----\n",
+  "created_at": "2025-04-22T09:28:47.447373",
+  "status": "active"
+}

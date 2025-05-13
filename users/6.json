@@ -1,0 +1,15 @@
+{
+  "user_id": "6",
+  "name": "jggj",
+  "role": "admin",
+  "email": "dhdf@j.com",
+  "organization": null,
+  "permissions": [
+    "view_all_records",
+    "modify_all_records",
+    "user_management"
+  ],
+  "public_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyHgQV2x41vq6/kw95D+a\niostMi/aIAddM7KFubHvvOnvcIRqsMETTeYZ4ROs5ptOawlfXPML5kc9W7tmUK2q\nF9gBFaOaPI2Q1uBiF6fNrMlw6cmeHyelBmIXfULu4wCdY0WV2dItFGm//SjCb74E\nantDJmoZTXnNureJ2qgLQCNSPGi5z1tSUjc5nAtIz1yhYplWfM66OTs1DTF37tfr\njoxYm7VY5tEk2WLMBDOBDrVv0V66oO9nND4MjiPeWUfwPVbWsTz4F5IcQm0V265n\n3tVKuln6Df+8p07/gf7CxTMus3+BAh5G/U8GHf932gdc7eHf+ym5Ts1tSKUioojS\nSQIDAQAB\n-----END PUBLIC KEY-----\n",
+  "created_at": "2025-04-23T00:13:33.330843",
+  "status": "active"
+}

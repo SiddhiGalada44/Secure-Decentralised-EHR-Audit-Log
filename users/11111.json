@@ -1,0 +1,15 @@
+{
+  "user_id": "11111",
+  "name": "admin",
+  "role": "admin",
+  "email": "admin@admin.com",
+  "organization": null,
+  "permissions": [
+    "view_all_records",
+    "modify_all_records",
+    "user_management"
+  ],
+  "public_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxwrNswYiRQZzLeUOTk5l\nIs+B7rh4ZVMy5huZ77WR4kV5iE+87HMZlsciPH2g8HzUii6MbJsiA2tTrWqSEvho\nszCMiuElYSadNRUpIaIsognCffAyIy30OHD/HpB4fOvU1Qi8kzBH0JgBTiK/1/Nt\nEjNB5I93c4zJyxT+ywWWJMNYexoTZlZjykUBwr5EVOn1DMPdHwAuqS8PW8LHhFkw\nlerE/WGh+pvUQo3ghHnFKpcR+QEZcVg4jbmoOB/gjj8J/xG8EO9rOynvJKac1sk9\neuPeWG4bt5Fzc7bc+BfnvNomOSgiMtnbT87xFGrZXOcSHZa6glZWOGTjKuTHnS6V\nKwIDAQAB\n-----END PUBLIC KEY-----\n",
+  "created_at": "2025-05-03T12:40:29.636796",
+  "status": "active"
+}

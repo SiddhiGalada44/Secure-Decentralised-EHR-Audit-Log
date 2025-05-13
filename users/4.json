@@ -1,0 +1,15 @@
+{
+  "user_id": "4",
+  "name": "ddd",
+  "role": "admin",
+  "email": "ff@g.com",
+  "organization": null,
+  "permissions": [
+    "view_all_records",
+    "modify_all_records",
+    "user_management"
+  ],
+  "public_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1S6iiux5V577DA3QD9q8\ncD0OO2WWmM3DF8IBp1QFpQZW46Yy70W183QfKQ7s8EpXkRaisxmOwfqrKWARy+U4\ncRSwW6wrhNFrGST98IBqEsL6NyhazCfC4BHEOWS8NV0v/D6EIOTcVF8UjOSatWKy\nqGyqE/mJzMt8odxQzXgKBeHm8uca+rvMHia8U3oeMxiNBXGCTk65UrJ/PHnVp4uU\nMm4KezuXyjjLjmInmnmwkOOTCUXFntvMPElrJDfmmIscNBeOOY+KAIwMDK/sZYti\nNmvpkbQY1ZOhtQZdOo952p7rMEKjOZ6JgAoHww8Uv6Bri/26QDSrCIwTWL//FZuV\nRQIDAQAB\n-----END PUBLIC KEY-----\n",
+  "created_at": "2025-04-23T00:13:03.745352",
+  "status": "active"
+}

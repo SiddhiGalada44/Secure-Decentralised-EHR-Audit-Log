@@ -1,0 +1,15 @@
+{
+  "user_id": "33",
+  "name": "fhfh",
+  "role": "doctor",
+  "email": "dhdsh@j.com",
+  "organization": null,
+  "permissions": [
+    "view_patient_records",
+    "modify_patient_records",
+    "view_own_audit"
+  ],
+  "public_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsgbP0IiYAQQDfBbxPQ6x\nf+suYfPd9PPzLnrnLKuA2PgkB0wxi91xDUDoRe4g4B5NMOKWpcushCd+WHCTodpo\n9AEHIt1vYQ6Jj3pqp20cQZOsirpA5wYmGeBUNabrPNkx9kECT7Hn0CDRjzccDUo8\nv0HMWBk5Ik5OV0CaHs/zRO7cfD+CvEzJcIXz+uvRbAOI2Y0ExFe7xKMMzAun9z8t\n94+mUuRyf+w5BVx25dAyAsld51BVzqoUEHhiipNBq5lZNTSq6aCBIfhSpS6dPw5J\nA7TspDbDAHYHFuO7nSo7YHMdvgvg8cPAmZ73pMpQ/eRkXqIMnjKIweMfa42bGiG+\nwwIDAQAB\n-----END PUBLIC KEY-----\n",
+  "created_at": "2025-04-23T00:11:31.509936",
+  "status": "active"
+}

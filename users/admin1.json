@@ -1,0 +1,15 @@
+{
+  "user_id": "admin1",
+  "name": "Admin User",
+  "role": "admin",
+  "email": "admin@example.com",
+  "organization": null,
+  "permissions": [
+    "view_all_records",
+    "modify_all_records",
+    "user_management"
+  ],
+  "public_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0ac64zMpG8RSR3gvqmXq\niiorMrWcBpNy1lDSTP9S30z9rEDJeaKwd2vvD0OV8MGSKoGuRUVFcSxu18Zsjv8o\n6m2pz1lBCsRThkggvNObKxR1MqNXBBZi69lpAw0w3gs/tK4cdOmDePoeYKS2S9+M\nDyjJHcA4kU8zTTfHMpZzGvSzCiFV6HY1TU53RjSBOdf+m6gebVchLkZld0MLmLu4\nSMHTvWXVAx3ByC2owwwI8VTKrw4uhV0GGVSMhr1S3+m6iEo0qoRUHSSdWN7GK+9w\n5FEMJ5bp4Pcon9RjdgEQedW7ujG3L7wgpvVrJbb8sNP5YoRS3rehSRyS0P0GNCpA\niwIDAQAB\n-----END PUBLIC KEY-----\n",
+  "created_at": "2025-04-22T09:28:47.385604",
+  "status": "active"
+}

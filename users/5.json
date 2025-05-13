@@ -1,0 +1,14 @@
+{
+  "user_id": "5",
+  "name": "p1",
+  "role": "patient",
+  "email": "p1@h.com",
+  "organization": null,
+  "permissions": [
+    "view_own_records",
+    "query_own_audit"
+  ],
+  "public_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtKIZiE9kl2nuKt+f52am\nmqZXlB8Nbyv3Crgdb/dhbyxH0KNTzxCuh2DMfjlkhJfclf64TBM2MiYxg/98vMQB\n0A/t+vTAJzqCFnZM41vQy5Z1VsjoglsZInrTShw7OvNo/K7McOswI6TZ1GkPYoFa\nuZm1chaVb/feYzkiTNQFgWI54myuFsAIkAo8GcoJdvuqjESj6yjIMc6np1PIv2rb\n/ppvKt+1uYMIm7jgr1WCc89wMu2i2D3PPRd/dllbxzp7rLI3vnCwBi8NRiI6Cqx6\nudpgAGXUzdfgv9BEjgGP3hgrsQVjb+YyaKYZ9LJcfZ941uE7cF/QGVVl5G8NQlLz\nUQIDAQAB\n-----END PUBLIC KEY-----\n",
+  "created_at": "2025-04-23T00:04:42.550709",
+  "status": "active"
+}
